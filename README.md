@@ -55,14 +55,7 @@
 
 <br>
 
-<h3 align="center">📊 Minhas Estatísticas</h3>
 
-<div align="center">
-  <a href="https://github.com/miqueiassouzarodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiassouzarodrigues&show_icons=true&theme=dark&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Miqueias Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=miqueiassouzarodrigues&show_icons=true&locale=pt-br&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Miqueias Languages"/>
-  </a>
-</div>
 
 <br>
 
