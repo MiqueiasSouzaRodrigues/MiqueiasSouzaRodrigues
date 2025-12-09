@@ -1,25 +1,79 @@
-<h1 align="center">Olá , eu sou o Miqueias Rodrigues ! 👋</h1>
-<h3 align="center">🚀 Desenvolvedor Frontend | Vue.js & Nuxt Enthusiast Sou um desenvolvedor apaixonado por construir interfaces modernas e escaláveis. Meu foco principal é o ecossistema **Vue.js**, mas estou sempre explorando novas tecnologias para criar soluções que resolvam problemas reais, desde a gestão fiscal até a saúde física
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=42D392&center=true&vCenter=true&width=435&lines=Ol%C3Olá%2C+eu+sou+Miqueias+Rodrigues!%F0%9F%91%8B;Vue.js+%26+Nuxt+Enthusiast+%F0%9F%9A%80;Dev+Frontend+%7C+Mobile+%7C+SaaS" alt="Typing SVG" />
+</div>
 
-. alt="miqueiassouzarodrigues" /></a> </p>
+<h3 align="center">
+    🚀 Desenvolvedor Frontend | Criando soluções reais
+</h3>
 
-- 🔭 Atualmente trabalhando em [SaaS de Gestão Fiscal](Desenvolvendo uma plataforma completa com dashboards e IA para análise de crédito.)
-
-- 🔭 Atualmente trabalhando em [Fitness Tech](Criando soluções para academias e apps de treino personalizados.)
-
-- 🔭 Atualmente trabalhando em [E-commerce](Projeto de acessórios personalizados para treino (Lifting Straps).)
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a <a href="https://linkedin.com/in/https://www.linkedin.com/in/miqueias-rodrigues-82b999339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miqueias-rodrigues-82b999339/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/miqueias_rodrigues" target="blank"><img align="center" <a href="https://instagram.com/miqueiassouza.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="miqueias_rodrigues" height="30" width="40" /></a>
-<a href="https://instagram.com/miqueiassouza.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miqueiassouza.r" height="30" width="40" /></a>
+<p align="center">
+   Sou um desenvolvedor apaixonado por construir interfaces modernas e escaláveis. <br>
+   Meu foco principal é o ecossistema <b>Vue.js</b>, mas estou sempre explorando novas tecnologias para resolver problemas reais, <br>desde a gestão fiscal até a saúde física.
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miqueiassouzarodrigues&show_icons=true&locale=en&layout=compact" alt="miqueiassouzarodrigues" /></p>
+<div align="center">
+  
+  ### 🔭 Atualmente trabalhando em:
+  
+  | Projeto | Descrição |
+  | :--- | :--- |
+  | 💰 **SaaS Gestão Fiscal** | Plataforma completa com dashboards e IA para análise de crédito. |
+  | 💪 **Fitness Tech** | Soluções para academias e apps de treino personalizados. |
+  | 🛍️ **E-commerce** | Acessórios personalizados para treino (Lifting Straps). |
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=miqueiassouzarodrigues&show_icons=true&theme=dark&locale=en" alt="miqueiassouzarodrigues" /></p>
+</div>
 
+<br>
+
+<h3 align="center">🛠 Linguagens e Ferramentas</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"  />
+</div>
+
+<br>
+
+<h3 align="center">📊 Minhas Estatísticas</h3>
+
+<div align="center">
+  <a href="https://github.com/miqueiassouzarodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiassouzarodrigues&show_icons=true&theme=dark&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Miqueias Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=miqueiassouzarodrigues&show_icons=true&locale=pt-br&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Miqueias Languages"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/miqueias-rodrigues-82b999339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://instagram.com/miqueiassouza.r" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://codesandbox.io/u/miqueias_rodrigues" target="_blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" target="_blank" />
+  </a>
+</div>
