@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
 
-      # 1. Isometric Calendar (Calendário 3D Isométrico de Commits)
+      # 1. Isometric Commit Calendar 3D
       - name: Isometric Commit Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -21,8 +21,9 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: America/Sao_Paulo
 
-      # 2. Coding Habits & Detailed Stats (Hábitos de Código)
+      # 2. Coding Habits & Detailed Stats
       - name: Coding Habits & Detailed Stats
         uses: lowlighter/metrics@latest
         with:
@@ -37,8 +38,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          config_timezone: America/Sao_Paulo
 
-      # 3. Achievements (Conquistas e Badges)
+      # 3. Achievements & Badges
       - name: Achievements & Badges
         uses: lowlighter/metrics@latest
         with:
@@ -50,7 +52,7 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_display: compact
 
-      # 4. Animação da Cobrinha (Snake)
+      # 4. Generate Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -59,7 +61,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 5. Push output to branch "output"
+      # 5. Push output SVG branch for snake
       - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
