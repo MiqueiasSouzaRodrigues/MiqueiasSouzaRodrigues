@@ -1,29 +1,40 @@
-<!-- HERMES AGENT OFFICIAL AESTHETICS (#0000F2 ROYAL ELECTRIC BLUE) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0000F2&height=220&section=header&text=MIQUÉIAS%20SOUZA&fontSize=48&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1" width="100%"/>
-</div>
+<!-- ================================================================== -->
+<!-- NEO-TOKYO PROTOCOL — MIQUÉIAS SOUZA                                 -->
+<!-- Header e stack são SVGs próprios (banner.svg / techstack.svg),     -->
+<!-- não geradores de terceiro — troque cor/texto direto neles.         -->
+<!-- ================================================================== -->
 
 <div align="center">
-  <p><code>OPEN SOURCE • MIT LICENSE • NOUS RESEARCH HERMES AESTHETIC</code></p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=THE+DEVELOPER+THAT+GROWS+WITH+YOU;AUTONOMOUS+AGENTS+%7C+FULL+STACK+ENGINEER;BUILDING+THE+FUTURE+OF+INTELLIGENT+SYSTEMS" alt="Hermes Typing SVG" />
-  </a>
+
+<img src="banner.svg" width="100%"/>
+
 </div>
 
 <br/>
 
-<!-- HERMES TERMINAL INSTALL BLOCK -->
+> Desenvolvedor atuando em sistemas de reserva aérea — parsing de PNR, classificação de segmentos de voo e integração GDS/Sabre via SOAP/XML em C#, dentro de um fluxo versionado em TFS.
+> Trajetória em andamento: engenharia de IA.
+
+<br/>
+
+<img src="techstack.svg" width="100%"/>
+
+<br/>
+
+---
+
+<h3>▓▓ TELEMETRIA — dados reais da conta</h3>
+
+<p><sub>Esta seção puxa dados ao vivo do GitHub (commits, linguagens, streak) — não dá pra "recriar do zero" sem virar estático e falso. Mantida funcional, na mesma paleta do resto.</sub></p>
+
 <div align="center">
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                        │
-│   $ curl -fsSL https://github.com/MiqueiasSouzaRodrigues | bash                         │
-│                                                                                        │
-│   [STATUS] ONLINE  |  [CORE] HERMES AGENT ENGINE  |  [USER] MIQUÉIAS SOUZA               │
-│                                                                                        │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MiqueiasSouzaRodrigues&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050506&title_color=F7E017&icon_color=FF003C&text_color=E8E8E8&border_color=050506"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasSouzaRodrigues&layout=compact&hide_border=true&bg_color=050506&title_color=F7E017&text_color=E8E8E8&border_color=050506&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiqueiasSouzaRodrigues&hide_border=true&background=050506&ring=F7E017&fire=FF003C&currStreakLabel=F7E017&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6b6b6b"/>
 
 </div>
 
@@ -31,101 +42,31 @@
 
 ---
 
-### `[ 01 // CAPABILITIES & TECH MATRIX ]`
+<h3>▓▓ MÉTRICAS — lowlighter/metrics</h3>
+
+<p><sub>Também dados ao vivo, gerados pela sua própria Action — só populam depois de configurada.</sub></p>
 
 <div align="center">
-
-| CATEGORY | STACK & INFRASTRUCTURE |
-| :--- | :--- |
-| **LANGUAGES** | ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0000F2?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0000F2?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/PYTHON-0000F2?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Go](https://img.shields.io/badge/GO-0000F2?style=for-the-badge&logo=go&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-0000F2?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF) |
-| **FRONTEND** | ![React](https://img.shields.io/badge/REACT-0000F2?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Next.js](https://img.shields.io/badge/NEXT.JS-0000F2?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![Vue.js](https://img.shields.io/badge/VUE.JS-0000F2?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF) ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-0000F2?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF) |
-| **BACKEND & AI** | ![Node.js](https://img.shields.io/badge/NODE.JS-0000F2?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF) ![FastAPI](https://img.shields.io/badge/FASTAPI-0000F2?style=for-the-badge&logo=fastapi&logoColor=FFFFFF) ![NestJS](https://img.shields.io/badge/NESTJS-0000F2?style=for-the-badge&logo=nestjs&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/DOCKER-0000F2?style=for-the-badge&logo=docker&logoColor=FFFFFF) |
-| **DATABASE & CLOUD** | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0000F2?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) ![Redis](https://img.shields.io/badge/REDIS-0000F2?style=for-the-badge&logo=redis&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MONGODB-0000F2?style=for-the-badge&logo=mongodb&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/AWS-0000F2?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF) |
-
+<img src="github-metrics-isometric.svg" alt="Isometric Commit Matrix" width="100%"/>
+<br/><br/>
+<img src="github-metrics-habits.svg" alt="Coding Habits" width="100%"/>
 </div>
 
 <br/>
 
 ---
 
-### `[ 02 // TELEMETRY & STATS ]`
+<h3>▓▓ UPLINK</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiqueiasSouzaRodrigues&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&border_color=0000F2&title_color=0000F2&icon_color=0000F2&text_color=000000&bg_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasSouzaRodrigues&layout=compact&theme=default&hide_border=false&border_color=0000F2&title_color=0000F2&text_color=000000&bg_color=FFFFFF&langs_count=8" />
+<a href="mailto:criandoloja3@gmail.com">
+  <img src="https://img.shields.io/badge/-GMAIL-050506?style=for-the-badge&logo=gmail&logoColor=F7E017&labelColor=050506"/>
+</a>
+<a href="https://github.com/MiqueiasSouzaRodrigues" target="_blank">
+  <img src="https://img.shields.io/badge/-GITHUB-050506?style=for-the-badge&logo=github&logoColor=F7E017&labelColor=050506"/>
+</a>
 </div>
 
-<br/>
-
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MiqueiasSouzaRodrigues&theme=default&hide_border=false&border_color=0000F2&background=FFFFFF&ring=0000F2&fire=0000F2&currStreakLabel=0000F2" />
-</div>
-
-<br/>
-
----
-
-### `[ 03 // LOWLIGHTER METRICS ENGINE ]`
-
-<div align="center">
-
-  <!-- 3D Commit Graph -->
-  <h4>🗓️ ISOMETRIC COMMIT MATRIX (3D GRAPH)</h4>
-  <img src="github-metrics-isometric.svg" alt="Metrics Isometric Commit Graph" width="100%" />
-
-  <br/><br/>
-
-  <!-- Coding Habits -->
-  <h4>⚡ CODING HABITS & DETAILED STATS</h4>
-  <img src="github-metrics-habits.svg" alt="Metrics Habits & Coding Stats" width="100%" />
-
-  <br/><br/>
-
-  <!-- Achievements -->
-  <h4>🏆 ACHIEVEMENTS & BADGES</h4>
-  <img src="github-metrics-achievements.svg" alt="Metrics Achievements" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-### `[ 04 // CONTRIBUTION MATRIX ]`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiqueiasSouzaRodrigues/MiqueiasSouzaRodrigues/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiqueiasSouzaRodrigues/MiqueiasSouzaRodrigues/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/MiqueiasSouzaRodrigues/MiqueiasSouzaRodrigues/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
-<br/>
-
----
-
-### `[ 05 // CONNECT ]`
-
-<div align="center">
-
-  <a href="mailto:criandoloja3@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0000F2?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-  </a>
-  <a href="https://github.com/MiqueiasSouzaRodrigues" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0000F2?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiqueiasSouzaRodrigues&label=PROFILE%20VIEWS&color=0000F2&style=flat-square" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0000F2&height=40&section=footer&stroke=FFFFFF&strokeWidth=1" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=MiqueiasSouzaRodrigues&label=PROFILE+VIEWS&color=F7E017&style=flat-square&labelColor=050506"/>
 </div>
